@@ -164,3 +164,22 @@ La informació que heu de posar (si no heu modificat la informació del manual) 
 * **contrasenya:** password
 * **base de dades:** bbdd
 * **domini:** localhost
+
+Deixaré totes les imatges capturades durant cada pas per ajudar a entendre millor tot el procés. 
+![Captura desde 2025-05-06 13-33-01](https://github.com/user-attachments/assets/2539f4dd-293e-4c95-b798-081394e99246)
+![Captura desde 2025-05-06 13-33-10](https://github.com/user-attachments/assets/82eff7d5-16e6-4fd8-8209-024d93406d7e)
+![Captura desde 2025-05-06 13-34-39](https://github.com/user-attachments/assets/a1bf2b13-e5e0-4122-a785-de8f3471b5b8)
+![Captura desde 2025-05-06 13-35-29](https://github.com/user-attachments/assets/30a10cb9-4381-4560-97a8-4409e1e67c6a)
+![Captura desde 2025-05-06 13-36-00](https://github.com/user-attachments/assets/dc19cb67-3d43-460d-ba17-fb14bc74991b)
+![Captura desde 2025-05-06 13-36-55](https://github.com/user-attachments/assets/1d194e28-77de-4633-9e52-24e0620a248f)
+![Captura desde 2025-05-06 13-37-22](https://github.com/user-attachments/assets/efaf2061-1fe1-47c2-8a13-87650d27d2fe)
+![Captura desde 2025-05-06 13-37-58](https://github.com/user-attachments/assets/b494d9a9-1c70-4976-9281-ddfced46d4f8)
+![Captura desde 2025-05-06 13-38-12](https://github.com/user-attachments/assets/d7443267-89ab-4e7d-bdca-f6d6eb8af6c7)
+![Captura desde 2025-05-06 13-38-46](https://github.com/user-attachments/assets/faf4bd04-1a85-4a04-89a0-0388a38f9a6b)
+![Captura desde 2025-05-06 13-39-29](https://github.com/user-attachments/assets/a49e831a-c488-41ab-8dfd-b4382c4f7c34)
+![Captura desde 2025-05-06 13-52-39](https://github.com/user-attachments/assets/e6c9317a-cdd1-4ffb-98b1-f2a3a41d0f39)
+![Captura desde 2025-05-06 13-56-16](https://github.com/user-attachments/assets/84227edd-cb28-48ac-819b-354d4718ec00)
+![Captura desde 2025-05-06 13-56-34](https://github.com/user-attachments/assets/59758119-f43a-4126-ab3e-2083656d36cd)
+![Captura desde 2025-05-06 13-57-05](https://github.com/user-attachments/assets/f7e51cef-8fe0-4f1c-ae5f-29f08164632c)
+![Captura desde 2025-05-06 14-02-47](https://github.com/user-attachments/assets/f912a883-f4e0-47b5-b999-133ebc2e274d)
+![Captura desde 2025-05-06 14-06-09](https://github.com/user-attachments/assets/a749e2a4-394e-4f12-b948-d93b3ffe40ad)
