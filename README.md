@@ -183,3 +183,14 @@ Deixaré totes les imatges capturades durant cada pas per ajudar a entendre mill
 ![Captura desde 2025-05-06 13-57-05](https://github.com/user-attachments/assets/f7e51cef-8fe0-4f1c-ae5f-29f08164632c)
 ![Captura desde 2025-05-06 14-02-47](https://github.com/user-attachments/assets/f912a883-f4e0-47b5-b999-133ebc2e274d)
 ![Captura desde 2025-05-06 14-06-09](https://github.com/user-attachments/assets/a749e2a4-394e-4f12-b948-d93b3ffe40ad)
+
+A continuación os dejaré las capturas de Owncloud que he ido haciendo y así os ayudará a cómo entenderlo paso a paso.  
+
+![Registrarse](https://github.com/user-attachments/assets/7521c796-0c57-4616-a807-fdb752e3d828)
+![Captura desde 2025-05-14 12-50-33](https://github.com/user-attachments/assets/6b03ee60-a5a6-4e9a-b717-8cb5324ea922)
+![Captura desde 2025-05-14 12-33-58](https://github.com/user-attachments/assets/ab11c7c0-ce81-4ba2-8720-6410b4172503)
+![Captura desde 2025-05-16 13-31-23](https://github.com/user-attachments/assets/0b76a43b-777e-4ef3-b9bd-4d5bdc6f3ed5)
+![Captura desde 2025-05-15 13-05-07](https://github.com/user-attachments/assets/61d9376b-a17f-42da-bb99-0dc4adce4cd0)
+![Captura de pantalla de 2025-05-15 13-04-12](https://github.com/user-attachments/assets/ea1c0c1e-ec02-4099-ba40-6585946025b6)
+![Captura de pantalla de 2025-05-15 12-46-19](https://github.com/user-attachments/assets/b019b396-e78a-40a8-afe1-df4027ed7f03)
+![Captura desde 2025-05-15 13-13-35](https://github.com/user-attachments/assets/a3518155-2674-4915-84b4-397a1be1acef)
