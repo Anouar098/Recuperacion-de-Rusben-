@@ -194,3 +194,6 @@ A continuación os dejaré las capturas de Owncloud que he ido haciendo y así o
 ![Captura de pantalla de 2025-05-15 13-04-12](https://github.com/user-attachments/assets/ea1c0c1e-ec02-4099-ba40-6585946025b6)
 ![Captura de pantalla de 2025-05-15 12-46-19](https://github.com/user-attachments/assets/b019b396-e78a-40a8-afe1-df4027ed7f03)
 ![Captura desde 2025-05-15 13-13-35](https://github.com/user-attachments/assets/a3518155-2674-4915-84b4-397a1be1acef)
+![AgregarArxiu](https://github.com/user-attachments/assets/a5715997-660c-4144-a6b9-33a184676b23)
+![ArxiuDeText](https://github.com/user-attachments/assets/3c30e169-f65f-49ad-b42e-3907a4dae8b9)
+![NomArxiu](https://github.com/user-attachments/assets/3f611611-70a4-406d-9a52-ac2152ee5c06)
